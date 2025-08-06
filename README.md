@@ -425,8 +425,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Juti Noor Cahyo**
-
 - GitHub: [@jutionck](https://github.com/jutionck)
 - LinkedIn: [Jution Candra Kirana](https://linkedin.com/in/jutionck)
 
